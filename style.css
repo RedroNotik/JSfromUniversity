@@ -1,0 +1,46 @@
+body{
+  background-color: #ace60d5d;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 10%;
+  color: rgba(241, 5, 36, 0.849);
+}
+h1,h3{
+  text-decoration:  underline;
+  text-align: center;
+}
+div{
+  background-color: rgba(223, 182, 130, 0.76);
+  border: 2px dotted  rgba(241, 5, 36, 0.849);
+  padding: 10px ;
+  margin: 20px;
+  padding-top: 0px;
+}
+p{
+  font-style: italic;
+  font-size: 16px;
+}
+table,th,td,.answer{
+   border: 2px solid rgba(241, 5, 36, 0.849);
+  border-collapse: collapse;
+  text-align: center;
+  padding: 4px 4px;
+ 
+}
+a{
+  text-decoration: none;
+}
+.deleted{
+  text-decoration: line-through;
+}
+.main{
+  border: 5px dashed rgba(241, 5, 36, 0.849);
+  background: rgba(203, 235, 18, 0.192);
+}
+.answer{
+  margin-left: 30%;
+  margin-right: 30%;
+  font-weight: bold;
+}
+.need{
+  background: greenyellow;
+}
